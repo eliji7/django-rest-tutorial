@@ -1,0 +1,11 @@
+.vagrant/
+ubuntu-xenial-16.04-cloudimg-console.log
+
+# Pycharm
+.idea/
+
+### Python ###
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
